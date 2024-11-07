@@ -1,0 +1,16 @@
+.size{
+    border: solid 2px;
+    height: 70px;
+    width: 70px;
+}
+.box{
+    display: flex;
+}
+.black{
+    background-color: black;
+}
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
